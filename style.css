@@ -37,3 +37,16 @@ p{
     font-size: 18px;
     font-family: cursive;
 }
+
+@media (max-width: 1020px) {
+    .content-clock{
+        flex-direction: column;
+        height: auto;
+        border-radius: 15px;
+    }
+
+    h2, h3{
+        margin: 10px 0;
+        font-size: 24px;
+    }
+}
