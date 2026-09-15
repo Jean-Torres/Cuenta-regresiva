@@ -1,4 +1,4 @@
-const fecha = 'Thu Jan 01 2026 00:00:00 GMT-0500';
+const fecha = 'Thu Jan 01 2027 00:00:00 GMT-0500';
 
 const cambiarPantalla = () => {
     const pantallas = document.querySelectorAll(".pantallas");
